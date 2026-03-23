@@ -1,6 +1,6 @@
-# 📊 DataLens AI — Understand Your Data Instantly
+# 📊 DataLens  — Understand Your Data Instantly
 
-DataLens AI is a lightweight, web-based data analysis tool that allows users to upload any CSV file and instantly explore, visualize, and clean their data — without writing a single line of code.
+DataLens is a lightweight, web-based data analysis tool that allows users to upload any CSV file and instantly explore, visualize, and clean their data — without writing a single line of code.
 
 > Built as part of a "Build in Public" challenge to create real, usable AI-powered tools.
 
