@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 
-from utils.eda import show_basic_info, show_missing_values, show_correlation, show_distributions
-from utils.insights import generate_insights
-from utils.cleaning import clean_data
+from eda import show_basic_info, show_missing_values, show_correlation, show_distributions
+from insights import generate_insights
+from cleaning import clean_data
 
 st.set_page_config(page_title="DataLens", layout="wide")
 
